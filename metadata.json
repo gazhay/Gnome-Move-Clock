@@ -5,7 +5,7 @@
   "shell-version": [
     "3.26"
   ], 
-  "url": "http://gazhay.com/extensions", 
+  "url": "https://github.com/gazhay/Gnome-Move-Clock", 
   "uuid": "move-clock@gazhay.com", 
   "version": 15
 }
